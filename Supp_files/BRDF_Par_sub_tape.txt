@@ -1,0 +1,6 @@
+Fiber_Rot_(deg), 0,90   
+Div, 10 10   
+sig_T, 0.1 0.1    
+sig_F, 0.5 0.8   
+Amp, 1 1     
+threshold, 0.2 0.2    

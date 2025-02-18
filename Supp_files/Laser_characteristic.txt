@@ -1,0 +1,1 @@
+Laser_Divergence(Degree) , 3.408024 
