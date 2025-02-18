@@ -1,0 +1,168 @@
+<deployment-project plugin="plugin.ezdeploy" plugin-version="1.0">
+  <configuration build-checksum="468998143" file="C:\Users\zaamia\Dropbox\PhD-docs\PROGRAMMING\3D-optical model\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\LATW_amblifibre.prj" location="C:\Users\zaamia\Dropbox\PhD-docs\PROGRAMMING\3D-optical model\3D-optical_General_assemble-2D_FDM-New_thermal_Gen" name="LATW_amblifibre" preferred-package-location="M:\PhD-works\Release\for_redistribution" preferred-package-type="package.type.exe" target="target.ezdeploy.standalone" target-name="Application Compiler">
+    <param.appname>LATW_amblifibre</param.appname>
+    <param.icon>${PROJECT_ROOT}\LATW_amblifibre_resources\icon.ico</param.icon>
+    <param.icons>
+      <file>${PROJECT_ROOT}\LATW_amblifibre_resources\icon_48.png</file>
+      <file>${PROJECT_ROOT}\LATW_amblifibre_resources\icon_32.png</file>
+      <file>${PROJECT_ROOT}\LATW_amblifibre_resources\icon_24.png</file>
+      <file>${PROJECT_ROOT}\LATW_amblifibre_resources\icon_16.png</file>
+    </param.icons>
+    <param.version>1.00</param.version>
+    <param.authnamewatermark>Amin Zaami</param.authnamewatermark>
+    <param.email>a.zaami@utwente.nl</param.email>
+    <param.company>UT</param.company>
+    <param.summary>OTOM (LATW Software)</param.summary>
+    <param.description>M:\PhD-works\Release</param.description>
+    <param.screenshot>D:\Profiles\zaamia\Desktop\Twente logo-small.jpg</param.screenshot>
+    <param.guid />
+    <param.installpath.string>\UT\LATW_amblifibre\</param.installpath.string>
+    <param.installpath.combo>option.installpath.programfiles</param.installpath.combo>
+    <param.logo>M:\OTOM_logo.jpg</param.logo>
+    <param.install.notes />
+    <param.target.install.notes />
+    <param.intermediate>M:\PhD-works\Release\for_testing</param.intermediate>
+    <param.files.only>M:\PhD-works\Release\for_redistribution_files_only</param.files.only>
+    <param.output>M:\PhD-works\Release\for_redistribution</param.output>
+    <param.enable.clean.build>false</param.enable.clean.build>
+    <param.user.defined.mcr.options />
+    <param.embed.ctf>true</param.embed.ctf>
+    <param.target.type>subtarget.standalone</param.target.type>
+    <param.support.packages />
+    <param.required.mcr.products>
+      <item>35000</item>
+      <item>35010</item>
+      <item>35001</item>
+    </param.required.mcr.products>
+    <param.web.mcr>true</param.web.mcr>
+    <param.package.mcr>true</param.package.mcr>
+    <param.no.mcr>false</param.no.mcr>
+    <param.web.mcr.name>OTOM_web_installer</param.web.mcr.name>
+    <param.package.mcr.name>OTOM_installer</param.package.mcr.name>
+    <param.no.mcr.name>MyAppInstaller_app</param.no.mcr.name>
+    <param.windows.command.prompt>true</param.windows.command.prompt>
+    <param.create.log>false</param.create.log>
+    <param.log.file />
+    <unset>
+      <param.guid />
+      <param.installpath.string />
+      <param.installpath.combo />
+      <param.target.install.notes />
+      <param.enable.clean.build />
+      <param.user.defined.mcr.options />
+      <param.embed.ctf />
+      <param.target.type />
+      <param.support.packages />
+      <param.web.mcr />
+      <param.no.mcr />
+      <param.no.mcr.name />
+      <param.windows.command.prompt />
+      <param.create.log />
+      <param.log.file />
+    </unset>
+    <fileset.main>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\LATW_amblifibre.m</file>
+    </fileset.main>
+    <fileset.resources>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\ADS_variables_window.fig</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\ADS_variables_window.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Advection_diff_2D.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\callObjConstr.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\callObjConstr_4Gui.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Comp_Parameter.txt</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\complete.jpg</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\complete.png</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\crystal.gif</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Cylinder_ints (UTWKS62604's conflicted copy 2017-08-17).txt</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Cylinder_ints.txt</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\fcn_RotationFromTwoVectors.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\General_3D_tape_cylinder.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Geo_Parameter (UTWKS62604's conflicted copy 2017-08-17).txt</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Geo_Parameter.txt</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\gifplayer.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\helical_3D_points.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\input_dialoge.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Inputs.xlsx</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\intersection_tape_Ray_3D.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Laser_ray_generator.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Laser_ray_generator2.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\LATW_amblifibre.fig</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\LATW_amblifibre.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\license.txt</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Line_cylinder_intersection.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Line_cylinder_intersection_Roller.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Node_elem_creeation.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Node_elem_creeation_Tape.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\on_out_surface.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\OTO_Luncher.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\OTO_Luncher_Opt.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\plot3D_cylinder.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\plot3D_line_interP.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Process_Parameter (UTWKS62604's conflicted copy 2017-08-17).txt</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Process_Parameter.txt</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\qrcode.png</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\refl_cylin_plot3D.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\refl_Roller_plot3D.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Roller_ints (UTWKS62604's conflicted copy 2017-08-17).txt</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Roller_ints.txt</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\rotVecAroundArbAxis.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\screencapture.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Tape_ints (UTWKS62604's conflicted copy 2017-08-17).txt</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Tape_ints.txt</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Tape_plot_3D.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Tape_points.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\tape_ray_reflection_3D.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Tecplot_Temp_width_reader.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\thermal_advection_comb_FEM.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\thermal_advection_comb_Tape_FEM.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\thermal_domain_generator_opt.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Transform_axis1_To_axis2.asv</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Transformation_G2L.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Transformation_L2G.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\Transformation_Rot_z.m</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\under_construction.png</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\User-manual.pdf</file>
+      <file>M:\PhD-works\Release\3D-optical_General_assemble-2D_FDM-New_thermal_Gen\UT_Logo_2400_White_EN.png</file>
+    </fileset.resources>
+    <fileset.package />
+    <fileset.depfun />
+    <build-deliverables>
+      <file location="M:\PhD-works\Release\for_testing" name="LATW_amblifibre.exe" optional="false">M:\PhD-works\Release\for_testing\LATW_amblifibre.exe</file>
+      <file location="M:\PhD-works\Release\for_testing" name="readme.txt" optional="true">M:\PhD-works\Release\for_testing\readme.txt</file>
+      <file location="M:\PhD-works\Release\for_testing" name="splash.png" optional="false">M:\PhD-works\Release\for_testing\splash.png</file>
+    </build-deliverables>
+    <workflow />
+    <matlab>
+      <root>C:\Program Files\MATLAB\R2015b</root>
+      <toolboxes>
+        <toolbox name="embeddedcoder" />
+        <toolbox name="matlabcoder" />
+      </toolboxes>
+      <toolbox>
+        <embeddedcoder>
+          <enabled>true</enabled>
+        </embeddedcoder>
+      </toolbox>
+      <toolbox>
+        <matlabcoder>
+          <enabled>true</enabled>
+        </matlabcoder>
+      </toolbox>
+    </matlab>
+    <platform>
+      <unix>false</unix>
+      <mac>false</mac>
+      <windows>true</windows>
+      <win2k>false</win2k>
+      <winxp>false</winxp>
+      <vista>false</vista>
+      <linux>false</linux>
+      <solaris>false</solaris>
+      <osver>6.1</osver>
+      <os32>false</os32>
+      <os64>true</os64>
+      <arch>win64</arch>
+      <matlab>true</matlab>
+    </platform>
+  </configuration>
+</deployment-project>
