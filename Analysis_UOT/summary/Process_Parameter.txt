@@ -1,0 +1,12 @@
+ materials_Tape, 5.000000 1450.000000 1600.000000 0.450000 0.450000  
+ materials_sub, 5.000000 1450.000000 1600.000000 0.450000 0.450000 
+ Velocity, 0.050000  
+ Total_energy, 500.000000  
+ ID, 0.000000 0.000000 0.000000  
+ absorbtion_Refractive_index, 1.950000 1.950000 1.430000 
+ Temp_Right_sub_Mandrel, 20.000000 20.000000  
+ Temp_Right_Tape-Temp-Roller, 20.000000 20.000000  
+   h_conv_Sub, 100.000000  
+ h_conv_T, 10.000000 100.000000  
+  Roller Force , 0.000000  
+ 
