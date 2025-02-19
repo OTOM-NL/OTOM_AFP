@@ -1,30 +1,13 @@
-# OTOM_AFP
-OTOM AFP software
-
+# OTOM AFP software
+## Introduction
 This is OTOM AFP-V20 by April 2020, research-based software for Automated Fiber Placement (AFP)
 This process is used to manufacture composites.
 ![LATW-elements-old](https://github.com/user-attachments/assets/fdeaebef-3554-40ff-854d-a6510525eca2)
 
 This package includes tools to generate analysis on analytical surfaces, cylinders, and domes. The below publication has been derived from this version
 
-Publications (Journal papers):
 
-Title: Optical characterization of fiber-reinforced thermoplastic tapes for laser-based composite manufacturing
-Relation to OTOM: Model validation
-
-Title: A fully coupled local and global optical-thermal model for continuous adjacent laser-assisted tape winding process of type-IV pressure vessels
-Relation to OTOM: Simulation and model validation
-
-Title: New process optimization framework for laser-assisted tape winding of composite pressure vessels: Controlling the unsteady bonding temperature
-Relation to OTOM: Simulation and Optimization
-
-Title: Temperature variation during continuous laser-assisted adjacent hoop winding of type-IV pressure vessels: An experimental analysis
-Relation to OTOM: Experimental findings
-
-Title: 3D numerical modeling of laser-assisted tape winding process of composite pressure vessels and Pipes—Effect of winding angle, mandrel curvature and tape width
-Relation to OTOM: Simulation model
-
-How it works?
+## How it works?
 To run this program, open LATW_amblifibre.m which is the main function, run this.
 Follow the help or Tutorial in our YouTube page:
 https://www.youtube.com/@otom4669
@@ -46,15 +29,36 @@ experimental verification of hoop winding on the pressure vessel:
 
 
 
-Your Contribution?
+## Your Contribution?
 
 if you extend or develop the code, please share it and mention OTOM in your publications and articles.
 
 
+##Publications (Journal papers):
+
+Title: Optical characterization of fiber-reinforced thermoplastic tapes for laser-based composite manufacturing
+Relation to OTOM: Model validation
+https://www.sciencedirect.com/science/article/pii/S1359835X21001263
+
+Title: A fully coupled local and global optical-thermal model for continuous adjacent laser-assisted tape winding process of type-IV pressure vessels
+Relation to OTOM: Simulation and model validation
+https://journals.sagepub.com/doi/pdf/10.1177/0021998320944598
+
+Title: New process optimization framework for laser-assisted tape winding of composite pressure vessels: Controlling the unsteady bonding temperature
+Relation to OTOM: Simulation and Optimization
+https://www.sciencedirect.com/science/article/pii/S0264127520306651
+
+Title: Temperature variation during continuous laser-assisted adjacent hoop winding of type-IV pressure vessels: An experimental analysis
+Relation to OTOM: Experimental findings
+https://journals.sagepub.com/doi/pdf/10.1177/0021998319884101
+
+Title: 3D numerical modeling of laser-assisted tape winding process of composite pressure vessels and Pipes—Effect of winding angle, mandrel curvature and tape width
+Relation to OTOM: Simulation model
+https://www.mdpi.com/1996-1944/13/11/2449
 
 
 
-Do you have questions?
+## Do you have questions?
 
 please reach out via:
 info@otomcomposite.eu
