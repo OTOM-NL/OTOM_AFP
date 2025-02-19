@@ -28,6 +28,9 @@ How it works?
 To run this program, open LATW_amblifibre.m which is the main function, run this.
 Follow the help or Tutorial in our YouTube page:
 https://www.youtube.com/@otom4669
+This version videos:
+https://www.youtube.com/watch?v=q99-w2h4IVA&list=PL9RFBQH0floAJHI0t6kWsz6ACwOPRBjH_
+
 Please unzip the Analysis_UOT content in the Analysis_UOT folder to see several examples of UOT study.
 https://www.mediafire.com/file/e0ug7s2ljfk2f3m/Analysis_UOT.zip/file
 Main Window:
@@ -46,3 +49,15 @@ experimental verification of hoop winding on the pressure vessel:
 Your Contribution?
 
 if you extend or develop the code, please share it and mention OTOM in your publications and articles.
+
+
+
+
+
+Do you have questions:
+please reach out via:
+info@otomcomposite.eu
+azaami@otomcomposite.eu
+
+or our pages:
+https://www.linkedin.com/company/13071856/admin/dashboard/
