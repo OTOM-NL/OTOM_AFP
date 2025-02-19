@@ -31,10 +31,10 @@ experimental verification of hoop winding on the pressure vessel:
 
 ## Your Contribution?
 
-if you extend or develop the code, please share it and mention OTOM in your publications and articles.
+if you extend or develop the code, Could you please share it and mention OTOM in your publications and articles. 
 
 
-##Publications (Journal papers):
+## Publications (Journal papers):
 
 Title: Optical characterization of fiber-reinforced thermoplastic tapes for laser-based composite manufacturing
 Relation to OTOM: Model validation
