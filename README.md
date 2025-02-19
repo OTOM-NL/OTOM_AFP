@@ -54,10 +54,13 @@ if you extend or develop the code, please share it and mention OTOM in your publ
 
 
 
-Do you have questions:
+Do you have questions?
+
 please reach out via:
 info@otomcomposite.eu
 azaami@otomcomposite.eu
+
+
 
 or our pages:
 https://www.linkedin.com/company/13071856/admin/dashboard/
