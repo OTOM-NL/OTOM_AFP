@@ -31,7 +31,8 @@ https://www.youtube.com/@otom4669
 Please unzip the Analysis_UOT content in the Analysis_UOT folder to see several example of UOT study.
 https://www.mediafire.com/file/e0ug7s2ljfk2f3m/Analysis_UOT.zip/file
 Main Window:
-![image](https://github.com/user-attachments/assets/61b0d89d-7a67-4831-b3b6-6edbffe3dc74)
+![image](https://github.com/user-attachments/assets/e870dd77-f080-453a-a149-1964fc6f82b1)
+
 Different sizes of mandrel for parameter study:
 ![Setup-mandrel-sizes](https://github.com/user-attachments/assets/e0db8844-943a-433d-9af9-c2b97c53c950)
 unsteady optical-thermal behavior analysis on curved location of domes:
