@@ -106,7 +106,7 @@ handles.nonlinearMaterials_Tape_Sub=[];
 
 
 
-url = 'https://www.otomcomposite.com/wp-content/uploads/OTOM_Main_window.png';
+url = 'https://www.otomcomposite.eu/wp-content/uploads/OTOM_Main_window.png';
 rgb = webread(url);
 imshow(rgb);
 axis image
@@ -1071,10 +1071,10 @@ function About_Callback(hObject, eventdata, handles)
 % handles    structure with handles and user data (see GUIDATA)
 [cdata,map] = imread('OTOM-QRcode.png','BackgroundColor',[1 1 1]);
 
-fig=figure('Name','OTOMcomposite.com','NumberTitle','off');
+fig=figure('Name','otomcomposite.eu','NumberTitle','off');
 fig.ToolBar = 'none';
 fig.MenuBar = 'none';
-title('https://www.OTOMcomposite.com','Color','k');
+title('https://www.otomcomposite.eu','Color','k');
 set(fig,'color','w');
 
 javaFrame    = get(gcf,'JavaFrame');
@@ -1083,7 +1083,7 @@ javaFrame.setFigureIcon(javax.swing.ImageIcon(iconFilePath));
 
 imshow(cdata,map);
 axis off;
-title('https://www.otomcomposite.com','Color','k','fontsize',20);
+title('https://www.otomcomposite.eu','Color','k','fontsize',20);
 
 % h2=msgbox('Under Development!',...
 %          'Notice','custom',cdata,map);
@@ -1385,7 +1385,7 @@ function Tutorial_Callback(hObject, eventdata, handles)
 % open Docs\User-manual.pdf;
 open Docs\OTOM-V1.06-Guide.pdf;
 
-web('https://www.otomcomposite.com');
+web('https://www.otomcomposite.eu');
 
 
 % [cdata,map] = imread('under_construction.png');
@@ -1405,7 +1405,7 @@ function Proxy_connection_Callback(hObject, eventdata, handles)
 h2=msgbox('Under Development!',...
     'Notice','custom',cdata,map);
 set(h2,'color','w');
-web('https://www.otomcomposite.com');
+web('https://www.otomcomposite.eu');
 
 
 % --------------------------------------------------------------------
@@ -1418,7 +1418,7 @@ function licensing_Callback(hObject, eventdata, handles)
 h2=msgbox('Under Development!',...
     'Notice','custom',cdata,map);
 set(h2,'color','w');
-web('https://www.otomcomposite.com');
+web('https://www.otomcomposite.eu');
 
 
 % --------------------------------------------------------------------
@@ -1714,7 +1714,7 @@ function Account_Callback(hObject, eventdata, handles)
 % handles    structure with handles and user data (see GUIDATA)
 % [cdata,map] = imread('under_construction.png');
 %
-% web('https://www.otomcomposite.com');
+% web('https://www.otomcomposite.eu');
 % h2=msgbox('Under Development!',...
 %     'Notice','custom',cdata,map);
 %   javaFrame    = get(h2,'JavaFrame');
@@ -1733,7 +1733,7 @@ function Preference_Callback(hObject, eventdata, handles)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
 [cdata,map] = imread('under_construction.png');
-web('https://www.otomcomposite.com');
+web('https://www.otomcomposite.eu');
 
 h2=msgbox('Under Development!',...
     'Notice','custom',cdata,map);
@@ -2170,7 +2170,7 @@ function Live_Monitoring_Callback(hObject, eventdata, handles)
 
 [cdata,map] = imread('under_construction.png');
 
-web('https://www.otomcomposite.com/inline-monitoring');
+web('https://www.otomcomposite.eu/inline-monitoring');
 h2=msgbox('Under Development!',...
     'Notice','custom',cdata,map);
 javaFrame    = get(h2,'JavaFrame');
