@@ -6,38 +6,48 @@ This process is used to manufacture composites.
 
 This package includes tools to generate analysis on analytical surfaces, cylinders, and domes. The below publication has been derived from this version
 
+## Main Window:
 
-## How it works?
+![image](https://github.com/user-attachments/assets/e870dd77-f080-453a-a149-1964fc6f82b1)
+
+# Different sizes of mandrel for parameter study:
+
+![Setup-mandrel-sizes](https://github.com/user-attachments/assets/e0db8844-943a-433d-9af9-c2b97c53c950)
+## Unsteady optical-thermal behavior analysis on curved location of domes:
+
+https://github.com/user-attachments/assets/64382923-c774-4294-8095-95f10dbeb837
+
+https://github.com/user-attachments/assets/cf08ff72-242f-47e6-bd16-5a5fe4e1663d
+
+
+## Experimental verification of hoop winding on the pressure vessel:
+
+![Tank4-simulation-exp-Substrate-old (2)](https://github.com/user-attachments/assets/8c8abf3d-db98-456b-98a4-9cfb22013547)
+
+
+# How does it work?
 To run this program, open LATW_amblifibre.m which is the main function, run this.
 
+https://github.com/user-attachments/assets/60748a6a-69f9-40b7-a5fb-4853adbd70e9
 
 Follow the help or Tutorial in our YouTube page:
+
 https://www.youtube.com/@otom4669
+
 This version videos:
+
 https://www.youtube.com/watch?v=q99-w2h4IVA&list=PL9RFBQH0floAJHI0t6kWsz6ACwOPRBjH_
 
 Please unzip the Analysis_UOT content in the Analysis_UOT folder to see several examples of UOT study.
 https://www.mediafire.com/file/e0ug7s2ljfk2f3m/Analysis_UOT.zip/file
-Main Window:
-![image](https://github.com/user-attachments/assets/e870dd77-f080-453a-a149-1964fc6f82b1)
-
-Different sizes of mandrel for parameter study:
-![Setup-mandrel-sizes](https://github.com/user-attachments/assets/e0db8844-943a-433d-9af9-c2b97c53c950)
-unsteady optical-thermal behavior analysis on curved location of domes:
-https://github.com/user-attachments/assets/64382923-c774-4294-8095-95f10dbeb837
-![step32-pressure-vessel](https://github.com/user-attachments/assets/932730bb-dfb7-4861-9d69-15e077ee5401)
-experimental verification of hoop winding on the pressure vessel:
-![Tank4-simulation-exp-Substrate-old (2)](https://github.com/user-attachments/assets/8c8abf3d-db98-456b-98a4-9cfb22013547)
 
 
+# Your Contribution?
+
+If you extend or develop the code, please share it and mention OTOM in your publications and articles. 
 
 
-## Your Contribution?
-
-if you extend or develop the code, Could you please share it and mention OTOM in your publications and articles. 
-
-
-## Publications (Journal papers):
+# Publications (Journal papers):
 
 Title: Optical characterization of fiber-reinforced thermoplastic tapes for laser-based composite manufacturing
 Relation to OTOM: Model validation
@@ -61,13 +71,11 @@ https://www.mdpi.com/1996-1944/13/11/2449
 
 
 
-## Do you have questions?
+# Do you have questions?
 
 please reach out via:
 info@otomcomposite.eu
 azaami@otomcomposite.eu
-
-
 
 or our pages:
 https://www.linkedin.com/company/13071856/admin/dashboard/
