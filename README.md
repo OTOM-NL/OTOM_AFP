@@ -9,6 +9,8 @@ This package includes tools to generate analysis on analytical surfaces, cylinde
 
 ## How it works?
 To run this program, open LATW_amblifibre.m which is the main function, run this.
+
+
 Follow the help or Tutorial in our YouTube page:
 https://www.youtube.com/@otom4669
 This version videos:
@@ -22,6 +24,7 @@ Main Window:
 Different sizes of mandrel for parameter study:
 ![Setup-mandrel-sizes](https://github.com/user-attachments/assets/e0db8844-943a-433d-9af9-c2b97c53c950)
 unsteady optical-thermal behavior analysis on curved location of domes:
+https://github.com/user-attachments/assets/64382923-c774-4294-8095-95f10dbeb837
 ![step32-pressure-vessel](https://github.com/user-attachments/assets/932730bb-dfb7-4861-9d69-15e077ee5401)
 experimental verification of hoop winding on the pressure vessel:
 ![Tank4-simulation-exp-Substrate-old (2)](https://github.com/user-attachments/assets/8c8abf3d-db98-456b-98a4-9cfb22013547)
