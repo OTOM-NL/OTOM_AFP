@@ -1,4 +1,4 @@
-# OTOM AFP software
+# OTOM AFP software V.1.20
 ## Introduction
 This is OTOM AFP-V20 by April 2020, research-based software for Automated Fiber Placement (AFP).
 This process is used to manufacture composites.
