@@ -1,18 +1,26 @@
 # OTOM AFP software
 ## Introduction
-This is OTOM AFP-V20 by April 2020, research-based software for Automated Fiber Placement (AFP)
+This is OTOM AFP-V20 by April 2020, research-based software for Automated Fiber Placement (AFP).
 This process is used to manufacture composites.
-![LATW-elements-old](https://github.com/user-attachments/assets/fdeaebef-3554-40ff-854d-a6510525eca2)
 
-This package includes tools to generate analysis on analytical surfaces, cylinders, and domes. The below publication has been derived from this version
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fdeaebef-3554-40ff-854d-a6510525eca2" width="600">
+</p>
+
+
+This package includes tools to generate analysis on analytical surfaces like flat panels, cylinders, and domes. 
 
 ## Main Window:
 
-![image](https://github.com/user-attachments/assets/e870dd77-f080-453a-a149-1964fc6f82b1)
+
+<img src="https://github.com/user-attachments/assets/e870dd77-f080-453a-a149-1964fc6f82b1" width="600">
 
 # Different sizes of mandrel for parameter study:
 
-![Setup-mandrel-sizes](https://github.com/user-attachments/assets/e0db8844-943a-433d-9af9-c2b97c53c950)
+
+<img src="https://github.com/user-attachments/assets/e0db8844-943a-433d-9af9-c2b97c53c950" width="600">
+
 ## Unsteady optical-thermal behavior analysis on curved location of domes:
 
 https://github.com/user-attachments/assets/64382923-c774-4294-8095-95f10dbeb837
@@ -22,11 +30,12 @@ https://github.com/user-attachments/assets/cf08ff72-242f-47e6-bd16-5a5fe4e1663d
 
 ## Experimental verification of hoop winding on the pressure vessel:
 
-![Tank4-simulation-exp-Substrate-old (2)](https://github.com/user-attachments/assets/8c8abf3d-db98-456b-98a4-9cfb22013547)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8c8abf3d-db98-456b-98a4-9cfb22013547" width="700">
+</p>
 
 # How does it work?
-To run this program, open LATW_amblifibre.m which is the main function, run this.
+To run this program, open LATW_amblifibre.m (the main function) within MATLAB, and run this.
 
 https://github.com/user-attachments/assets/60748a6a-69f9-40b7-a5fb-4853adbd70e9
 
@@ -48,6 +57,9 @@ If you extend or develop the code, please share it and mention OTOM in your publ
 
 
 # Publications (Journal papers):
+
+The below publications have been derived from this version:
+
 
 Title: Optical characterization of fiber-reinforced thermoplastic tapes for laser-based composite manufacturing
 Relation to OTOM: Model validation
@@ -73,9 +85,8 @@ https://www.mdpi.com/1996-1944/13/11/2449
 
 # Do you have questions?
 
-please reach out via:
-info@otomcomposite.eu
+Please reach out via:
 azaami@otomcomposite.eu
 
-or our pages:
+or OTOM LinkedIn page:
 https://www.linkedin.com/company/13071856/admin/dashboard/
