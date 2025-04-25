@@ -89,4 +89,4 @@ Please reach out via:
 azaami@otomcomposite.eu
 
 or OTOM LinkedIn page:
-https://www.linkedin.com/company/13071856/admin/dashboard/
+https://www.linkedin.com/company/otomcomposite
